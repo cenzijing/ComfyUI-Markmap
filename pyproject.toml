@@ -1,0 +1,15 @@
+[project]
+name = "markmap"
+description = "A ComfyUI custom node for creating mindmaps from markdown"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["# No additional requirements"]
+
+[project.urls]
+Repository = "https://github.com/cenzijing/ComfyUI-Markmap"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Markmap"
+Icon = ""
